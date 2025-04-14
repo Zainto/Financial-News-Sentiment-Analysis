@@ -70,12 +70,13 @@ Reporting: Creates comprehensive reports in multiple formats
 
 
 
-#Acknowledgments
+# Acknowledgments
 
 NewsAPI for providing the news article data
 FinBERT for the sentiment analysis model
 newspaper3k for article extraction
 Hugging Face for the transformers library
 
-Contact
+# Contact
 If you have any questions or suggestions, please open an issue or reach out to abdulwasii.ajayi@gmail.com
+
